@@ -58,7 +58,7 @@ DeviceProcessEvents
 | order by Timestamp asc  
 | project Timestamp, DeviceName, AccountName, ActionType, FileName, FolderPath, SHA256, ProcessCommandLine
 ```
-<img width="1212" alt="image" src="https://github.com/user-attachments/assets/b07ac4b4-9cb3-4834-8fac-9f5f29709d78">
+<img width="1212" alt="image" src="https://github.com/bcook449/Threat-Hunting-Scenario/blob/main/Screenshot%202025-12-10%20173557.png">
 
 ---
 
